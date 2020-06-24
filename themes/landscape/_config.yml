@@ -2,7 +2,9 @@
 menu:
   Home: /
   Archives: /archives
-rss: /atom.xml
+  Weibo: /https://weibo.com/u/2948870170?nick=xperiDD
+# rss: /atom.xml
+banner: "images/banner.jpg"
 
 # Content
 excerpt_link: Read More
@@ -13,7 +15,7 @@ sidebar: right
 widgets:
 - category
 - tag
-- tagcloud
+# - tagcloud
 - archive
 - recent_posts
 
@@ -30,8 +32,8 @@ show_count: false
 # Miscellaneous
 google_analytics:
 gauges_analytics:
-favicon: /favicon.png
-twitter:
+favicon: /
+twitter: 
 google_plus:
 fb_admins:
 fb_app_id:
