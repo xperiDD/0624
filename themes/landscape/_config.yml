@@ -2,7 +2,7 @@
 menu:
   Home: /
   Archives: /archives
-  Weibo: /https://weibo.com/u/2948870170?nick=xperiDD
+  Weibo: https://weibo.com/u/2948870170?nick=xperiDD
 # rss: /atom.xml
 banner: "images/banner.jpg"
 
